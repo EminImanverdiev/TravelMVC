@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\kodlama.io\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\kodlama.io\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\kodlama.io\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\User\\Desktop\\kodlama.io\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\kodlama.io\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\kodlama.io\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\kodlama.io\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\kodlama.io\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\kodlama.io\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\User\\Desktop\\kodlama.io\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\kodlama.io\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\traversal\\TravelMVC\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
